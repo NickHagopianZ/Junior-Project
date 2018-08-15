@@ -19,7 +19,7 @@ or
 **Initial Setup**
 Once the program is running right click the screen to run the desired parts of the program.
 
-**[GitHub Repository](https://github.com/NickHagopianZ/Senior-Project/)**
+**[GitHub Repository](https://github.com/NickHagopianZ/Junior-Project)**
 
 
 **Contributors**
